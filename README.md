@@ -24,7 +24,7 @@ Para alcançar o objetivo desta trilha, você deve seguir as atividades proposta
 ### **1. Introdução ao Versionamento de Código**
 O versionamento de código é uma prática essencial no desenvolvimento de software, pois permite rastrear alterações no código, colaborar com outros desenvolvedores e manter um histórico de mudanças. Com o Git, você pode criar snapshots do seu projeto, chamados de commits, e reverter para versões anteriores quando necessário. 
 - Consulte a seção [Introdução ao Versionamento de Código](./Atividades.md#1-introdução-ao-versionamento-de-código) para começar.
-- Saiba mais: [O que é Git?](https://git-scm.com/book/pt-br/v2/Começando-O-que-é-Git%3F)
+- Saiba mais: [O que é Git?](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
 
 ---
 
